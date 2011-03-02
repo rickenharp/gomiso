@@ -1,0 +1,3 @@
+module Gomiso
+  # Your code goes here...
+end
